@@ -1,3 +1,0 @@
-/mnt/c/Users/Kayra/CLionProjects/As1/cmake-build-debug/CMakeFiles/As1.dir
-/mnt/c/Users/Kayra/CLionProjects/As1/cmake-build-debug/CMakeFiles/edit_cache.dir
-/mnt/c/Users/Kayra/CLionProjects/As1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

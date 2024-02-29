@@ -1,3 +1,0 @@
-/mnt/c/Users/Kayra/CLionProjects/AS3/cmake-build-debug/CMakeFiles/hubbmnet.dir
-/mnt/c/Users/Kayra/CLionProjects/AS3/cmake-build-debug/CMakeFiles/edit_cache.dir
-/mnt/c/Users/Kayra/CLionProjects/AS3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
