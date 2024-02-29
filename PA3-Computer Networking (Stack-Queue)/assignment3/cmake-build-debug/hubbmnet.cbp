@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="hubbmnet"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/mnt/c/Users/Kayra/CLionProjects/AS3/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j12 -f &quot;/mnt/c/Users/Kayra/CLionProjects/AS3/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/gmake -j12 -f &quot;/mnt/c/Users/Kayra/CLionProjects/AS3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j12 -f &quot;/mnt/c/Users/Kayra/CLionProjects/AS3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j12 -f &quot;/mnt/c/Users/Kayra/CLionProjects/AS3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="hubbmnet">
+				<Option output="/mnt/c/Users/Kayra/CLionProjects/AS3/cmake-build-debug/hubbmnet" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/Kayra/CLionProjects/AS3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/11"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/11"/>
+					<Add directory="/usr/include/c++/11/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/11/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j12 -f &quot;/mnt/c/Users/Kayra/CLionProjects/AS3/cmake-build-debug/Makefile&quot;  VERBOSE=1 hubbmnet"/>
+					<CompileFile command="/usr/bin/gmake -j12 -f &quot;/mnt/c/Users/Kayra/CLionProjects/AS3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j12 -f &quot;/mnt/c/Users/Kayra/CLionProjects/AS3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j12 -f &quot;/mnt/c/Users/Kayra/CLionProjects/AS3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="hubbmnet/fast">
+				<Option output="/mnt/c/Users/Kayra/CLionProjects/AS3/cmake-build-debug/hubbmnet" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/Kayra/CLionProjects/AS3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/11"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/11"/>
+					<Add directory="/usr/include/c++/11/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/11/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j12 -f &quot;/mnt/c/Users/Kayra/CLionProjects/AS3/cmake-build-debug/Makefile&quot;  VERBOSE=1 hubbmnet/fast"/>
+					<CompileFile command="/usr/bin/gmake -j12 -f &quot;/mnt/c/Users/Kayra/CLionProjects/AS3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j12 -f &quot;/mnt/c/Users/Kayra/CLionProjects/AS3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j12 -f &quot;/mnt/c/Users/Kayra/CLionProjects/AS3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/mnt/c/Users/Kayra/CLionProjects/AS3/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j12 -f &quot;/mnt/c/Users/Kayra/CLionProjects/AS3/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/gmake -j12 -f &quot;/mnt/c/Users/Kayra/CLionProjects/AS3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j12 -f &quot;/mnt/c/Users/Kayra/CLionProjects/AS3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j12 -f &quot;/mnt/c/Users/Kayra/CLionProjects/AS3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/mnt/c/Users/Kayra/CLionProjects/AS3/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j12 -f &quot;/mnt/c/Users/Kayra/CLionProjects/AS3/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/gmake -j12 -f &quot;/mnt/c/Users/Kayra/CLionProjects/AS3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j12 -f &quot;/mnt/c/Users/Kayra/CLionProjects/AS3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j12 -f &quot;/mnt/c/Users/Kayra/CLionProjects/AS3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/mnt/c/Users/Kayra/CLionProjects/AS3/ApplicationLayerPacket.cpp">
+			<Option target="hubbmnet"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Kayra/CLionProjects/AS3/ApplicationLayerPacket.h">
+			<Option target="hubbmnet"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Kayra/CLionProjects/AS3/Client.cpp">
+			<Option target="hubbmnet"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Kayra/CLionProjects/AS3/Client.h">
+			<Option target="hubbmnet"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Kayra/CLionProjects/AS3/Log.cpp">
+			<Option target="hubbmnet"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Kayra/CLionProjects/AS3/Log.h">
+			<Option target="hubbmnet"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Kayra/CLionProjects/AS3/Network.cpp">
+			<Option target="hubbmnet"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Kayra/CLionProjects/AS3/Network.h">
+			<Option target="hubbmnet"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Kayra/CLionProjects/AS3/NetworkLayerPacket.cpp">
+			<Option target="hubbmnet"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Kayra/CLionProjects/AS3/NetworkLayerPacket.h">
+			<Option target="hubbmnet"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Kayra/CLionProjects/AS3/Packet.cpp">
+			<Option target="hubbmnet"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Kayra/CLionProjects/AS3/Packet.h">
+			<Option target="hubbmnet"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Kayra/CLionProjects/AS3/PhysicalLayerPacket.cpp">
+			<Option target="hubbmnet"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Kayra/CLionProjects/AS3/PhysicalLayerPacket.h">
+			<Option target="hubbmnet"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Kayra/CLionProjects/AS3/TransportLayerPacket.cpp">
+			<Option target="hubbmnet"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Kayra/CLionProjects/AS3/TransportLayerPacket.h">
+			<Option target="hubbmnet"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Kayra/CLionProjects/AS3/main.cpp">
+			<Option target="hubbmnet"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Kayra/CLionProjects/AS3/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

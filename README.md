@@ -1,0 +1,1 @@
+These are the assignments that I completed during my third semester in Hacettepe CS, in the BBM201 class's lab. BBM201 is a data structures class, taught in C++. You can find the assignment PDFs in the project folders for a full understanding.
